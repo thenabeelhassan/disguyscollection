@@ -1,0 +1,30 @@
+
+
+#product {
+    float: left;
+    background-color: aqua;
+    height: 50vh;
+}
+
+#product image {
+    text-align: center;
+    height: 30vh;
+}
+
+#product h3 {
+    height: 8vh;
+    text-align: center;
+}
+
+#product #details {
+    height: 6vh;
+}
+
+#product #size {
+    height: 4vh;
+}
+
+#product #price {
+    height: 4vh;
+}
+
